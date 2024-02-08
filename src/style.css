@@ -1,0 +1,37 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.app{
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    background-color: aqua;
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left:0px;
+}
+.preview{
+    background-color:wheat;
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right:0px;
+}

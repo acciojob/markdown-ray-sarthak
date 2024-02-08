@@ -1,2 +1,18 @@
-<p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
+import React,{useState,useEffect} from "react";
+import Section from "./Section";
 
+
+
+const App=()=>{
+
+    return(
+        
+
+
+<Section/>
+
+        
+    )
+}
+
+export default App;
