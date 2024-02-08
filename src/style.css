@@ -15,7 +15,7 @@ button{
     display: flex;
     flex-direction: row;
 }
-.left{
+.textarea{
     background-color: aqua;
     width: 50vw;
     height: 100vh;
